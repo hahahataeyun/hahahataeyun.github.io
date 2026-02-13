@@ -14,7 +14,7 @@ author_profile: true
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
       <h3>VR-based kickboard simulator</h3>
-      <p><strong>Woongchan Cho</strong>, Junhyeok Yang, Taeyun Ha</p>
+      <p>Woongchan Cho, Junhyeok Yang, <strong>Taeyun Ha</strong></p>
       <p><em></em></p>
       <p>
         <a href="https://wxxng.github.io/VR_Scooter_Simulator/">project page</a>
