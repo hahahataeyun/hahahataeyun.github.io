@@ -9,7 +9,7 @@ author_profile: true
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle">
       <div class="one">
-        <img src="/images/vr.jpeg" width="160" alt="VR-based kickboard simulator">
+        <img src="/images/vr.jpeg" width="160" alt="VR-based E-scooter Simulator">
       </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
