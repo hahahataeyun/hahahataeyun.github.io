@@ -7,8 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi!
-My name is Taeyun Ha, I'm currently an undergraduate student majoring in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) at Seoul National University. Currently, I am a research intern at Professor [Hanbyul Joo](https://jhugestar.github.io/)'s lab, where I focus on robotics and computer vision, especially Human-to-Robot Learning.
+My name is Taeyun Ha, I'm an undergraduate student majoring in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) at Seoul National University. I am a research intern at SNU Visual Computing lab, advised by Dr.[Hanbyul Joo](https://jhugestar.github.io/)'s lab. Currently, I mainly work on robotics and computer vision, especially Human-to-Robot Learning.
+
+<a href="{{ base_path }}/files/CV_TAEYUN%20HA.pdf" class="btn btn--primary">View CV</a>
+
+
+## Research
+Scaling human-to-robot learning
+
+
+## News
+* **[Jan 2026]** Joined SNU Visual Computing Lab!
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
