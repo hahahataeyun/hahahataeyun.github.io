@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Taeyun Ha, I'm an undergraduate student majoring in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) at Seoul National University. I am a research intern at SNU Visual Computing lab, advised by Dr.[Hanbyul Joo](https://jhugestar.github.io/)'s lab. Currently, I mainly work on robotics and computer vision, especially Human-to-Robot Learning.
-
+My name is Taeyun Ha, I'm an undergraduate student majoring in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) at Seoul National University. Currently, I am a research intern at SNU Visual Computing lab, advised by [Dr. Hanbyul Joo](https://jhugestar.github.io/)'s lab. 
 <a href="{{ base_path }}/files/CV_TAEYUN%20HA.pdf" class="btn btn--primary">View CV</a>
 
 
