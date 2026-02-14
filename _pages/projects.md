@@ -13,7 +13,7 @@ author_profile: true
       </div>
     </td>
     <td style="padding:20px;width:75%;vertical-align:middle">
-      <h2>VR-based kickboard simulator</h2>
+      <h2>VR E-scooter Simulator</h2>
       <p>Woongchan Cho, Junhyeok Yang, <strong>Taeyun Ha</strong></p>
       <p><em></em></p>
       <p>
