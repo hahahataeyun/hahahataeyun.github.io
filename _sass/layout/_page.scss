@@ -14,6 +14,12 @@
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+
+  &.main--wide {
+    @include breakpoint($large) {
+      max-width: $x-large;
+    }
+  }
 }
 
 .page {
@@ -31,6 +37,12 @@
     .page__share {
       @include full();
     }
+  }
+}
+
+.page--wide {
+  @include breakpoint($large) {
+    @include suffix(0);
   }
 }
 

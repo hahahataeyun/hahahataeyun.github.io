@@ -2,6 +2,7 @@
 permalink: /
 title: "Taeyun Ha"
 author_profile: true
+wide: true
 redirect_from: 
   - /about/
   - /about.html
