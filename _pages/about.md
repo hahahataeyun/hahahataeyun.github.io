@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student majoring in [Electrical and Computer Engineering](https://ece.snu.ac.kr/en) at Seoul National University. Currently, I am a research intern at SNU Visual Computing lab, advised by [Dr. Hanbyul Joo](https://jhugestar.github.io/).
+I'm a first year PhD student at Seoul National University, advised by [Prof. Hanbyul Joo](https://jhugestar.github.io/).
+
+I received my B.S. in Electrical and Computer Engineering, *summa cum laude*, from Seoul National University.
 
 <a href="{{ base_path }}/files/CV_TAEYUN%20HA.pdf" class="btn btn--primary" style="text-decoration:none;">View CV</a>
 
@@ -16,6 +18,7 @@ I'm an undergraduate student majoring in [Electrical and Computer Engineering](h
 ## Research Keyword
 - Scaling human-to-robot learning
 - Dexterous Manipulation
+- Real-to-Sim-to-Real
 
 ## Publications
 {% include publication-list.html %}
