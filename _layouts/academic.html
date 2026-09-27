@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <title>{% if page.url == '/' %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-container" aria-label="Main navigation">
+        <a class="site-name" href="{{ '/' | relative_url }}">Taeyun Ha</a>
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/#research' | relative_url }}">Research</a>
+          <a href="{{ '/#publications' | relative_url }}">Publications</a>
+          <a href="{{ '/#projects' | relative_url }}">Projects</a>
+          <a href="{{ '/files/CV_TAEYUN%20HA.pdf' | relative_url }}">CV</a>
+        </div>
+      </nav>
+    </header>
+    <main class="site-content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="footer-inner">© {{ 'now' | date: '%Y' }} Taeyun Ha · Seoul National University</div>
+    </footer>
+  </body>
+</html>
