@@ -31,7 +31,7 @@ redirect_from:
       <ul>
         <li><strong>Scaling human-to-robot learning:</strong> using human demonstrations and data to teach robot hands.</li>
         <li><strong>Dexterous manipulation:</strong> learning robust grasping and interaction with diverse objects.</li>
-        <li><strong>Real-to-sim-to-real:</strong> connecting real-world data and simulation
+        <li><strong>Real-to-sim-to-real:</strong> connecting real-world data and simulation</li>
       </ul>
     </li>
   </ul>
