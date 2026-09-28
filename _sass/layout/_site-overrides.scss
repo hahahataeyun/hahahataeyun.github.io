@@ -1,5 +1,15 @@
 /* Site-specific typography refinements. */
 
+.masthead__logo {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  margin-right: 9px;
+  border-radius: 4px;
+  vertical-align: middle;
+  object-fit: cover;
+}
+
 .sidebar {
   p,
   li {

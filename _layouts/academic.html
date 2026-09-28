@@ -5,13 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description | escape }}">
     <title>{% if page.url == '/' %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
-    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{ '/images/yun-logo.png' | relative_url }}">
+    <link rel="apple-touch-icon" href="{{ '/images/yun-logo.png' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}">
   </head>
   <body>
     <header class="site-header">
       <nav class="nav-container" aria-label="Main navigation">
-        <a class="site-name" href="{{ '/' | relative_url }}">Taeyun Ha</a>
+        <a class="site-name" href="{{ '/' | relative_url }}"><img class="site-logo" src="{{ '/images/yun-logo.png' | relative_url }}" alt="" width="38" height="38">Taeyun Ha</a>
         <div class="nav-links">
           <a href="{{ '/' | relative_url }}">Home</a>
           <a href="{{ '/#research' | relative_url }}">Research</a>
